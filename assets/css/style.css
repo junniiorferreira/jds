@@ -81,6 +81,8 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     min-height: 680px;    
 }
 
+
+// vinny
 .spots1-services-wrapper {
     width: 100%;
 
@@ -92,6 +94,21 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
         width: 20%;
         margin: 0 10px 0 10px;
     }
+    .secondSpots.spots-sulacap {
+        width: 15%;
+    }
+
+.fotos-wrapper {
+    width: 100%;
+    height: auto;
+}
+    .firstFotos {
+        width: 32%;
+        margin: 5px 2px 5px 2px;
+    }
+
+
+// vinny
 
 .cemiterio-container .sections {
     background: #fff;
@@ -350,7 +367,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .cemiterio-container .map-info {
-    width: 100%;
+    width: 30%;
     text-align: left;
     padding: 30px;
     background: #ffffff;    
@@ -358,22 +375,23 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .cemiterio-container .map-info-phone {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.2em;
-    font-weight: 800;
+    font-size: 1.3em;
+    font-weight: 600;
     line-height: 32px;
     letter-spacing: 4px;
     color: #6b635c;
 }
 
 .cemiterio-container .map-content {
+    width: 70%;
     float: left;
     padding-left: 20px;    
 }
 
 .cemiterio-container .map-info-title {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 3em;
-    font-weight: 800;
+    font-size: 2.2em;
+    font-weight: 700;
     line-height: 34px;
     color: #323232;
     padding-bottom: 15px;    
@@ -381,7 +399,16 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .cemiterio-container .map-info-address {
     font-family: 'Source Sans Pro', sans-serif; 
-    font-size: 1.3em;
+    font-size: 1.2em;
+    font-weight: 400;
+    line-height: 22px;
+    color: #6b635c;
+    padding-bottom: 10px;    
+}
+
+.cemiterio-container .map-info-email {
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 1em;
     font-weight: 400;
     line-height: 22px;
     color: #6b635c;
