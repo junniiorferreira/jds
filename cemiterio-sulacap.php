@@ -87,8 +87,10 @@
 					<div id="cemiterio-2" class="layer-hidden">
 						<div class="parques-section sections animated slideInLeft">
 							<p class="section-title">Cemitério Parque</p>
-							<p class="section-content">inaugurado em 1970 o Cemitério Jardim da Saudade de Sulacap foi o pioneiro no Rio de janeiro. Com sua beleza , concepção moderna e social permite integrar , com harmonia e respeito a beleza da natureza e serviços indispensáveis ao culto da memória e da saudade.</p>
-							<p class="section-content">Completamente revitalizado é o cemitério mais conhecido do Grupo Jardim da Saudade.</p>
+							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
+							<p class="section-content">Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+							<p class="section-content">Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
+							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
 						</div>
 					</div>
 					<div id="cemiterio-3" class="layer-hidden">
@@ -103,29 +105,28 @@
 					<div id="cemiterio-4" class="layer-hidden">
 						<div class="parques-section sections animated slideInLeft">
 							<p class="section-title">Ossário Público</p>
-							<p class="section-content">O Cemitério Jardim da Saudade de Paciência disponibiliza aos seus clientes um ossário público e particular permitindo que ossos sejam depositados após a exumação.</p>
+							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
+							<p class="section-content">Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+							<p class="section-content">Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
+							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
 						</div>
 					</div>	
 					<div id="cemiterio-5" class="layer-hidden">
 						<div class="parques-section sections animated slideInLeft">
 							<p class="section-title">Crematório</p>
-							<p class="section-content">Em breve</p>
+							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
+							<p class="section-content">Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+							<p class="section-content">Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
+							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
 						</div>
 					</div>	
 					<div id="cemiterio-6" class="layer-hidden">
 						<div class="parques-section sections animated slideInLeft">
 							<p class="section-title">Fotos</p>
-							<p class="section-content">
-								<div class="fotos-wrapper">
-									<a href="#"><img class="firstFotos" src="assets/images/cemiterio/sulacap/js1s.jpg"></a>
-									<a href="#"><img class="firstFotos" src="assets/images/cemiterio/sulacap/js2s.jpg"></a>
-									<a href="#"><img class="firstFotos" src="assets/images/cemiterio/sulacap/js3s.jpg"></a>
-
-									<a href="#"><img class="firstFotos" src="assets/images/cemiterio/sulacap/js4s.jpg"></a>
-									<a href="#"><img class="firstFotos" src="assets/images/cemiterio/sulacap/js5s.jpg"></a>
-									<a href="#"><img class="firstFotos" src="assets/images/cemiterio/sulacap/js6s.jpg"></a>
-								</div>
-							</p>
+							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
+							<p class="section-content">Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+							<p class="section-content">Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
+							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
 						</div>
 					</div>
 					<div id="cemiterio-7" class="layer-hidden">
@@ -151,7 +152,7 @@
 
 	    					</div>
 	    					<div class="map-info">
-	    						<p class="map-info-title">Como Chegar</p>
+	    						<p class="map-info-title">Como chegar</p>
 	    						<p class="map-info-address">Av. Carlos Pontes, 500 - Sulacap, Rio de Janeiro - RJ, 21741-340</p>
 	    						<p class="map-info-phone">(21) 3357-7844</p>
 	    					</div>
