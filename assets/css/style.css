@@ -81,8 +81,20 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     min-height: 680px;    
 }
 
+.spots1-services-wrapper {
+    width: 100%;
+
+}
+    .firstSpots {
+        width: 19%;
+    }
+    .secondSpots {
+        width: 20%;
+        margin: 0 10px 0 10px;
+    }
+
 .cemiterio-container .sections {
-    background: #ffffff;
+    background: #fff;
     padding: 30px;
     margin-top: 30px;
     min-height: 680px;        
@@ -338,6 +350,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .cemiterio-container .map-info {
+    width: 100%;
     text-align: left;
     padding: 30px;
     background: #ffffff;    
@@ -1997,7 +2010,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 /*faq*/
 .faq-content{
     height: 350px;
-    background: #ededed;	
+    background: #ededed;    
 }
 
 .faq-content .webdor-layer-title {
@@ -2007,7 +2020,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .faq-content .webdor-layer-caption {
-	font-size: 16px;
+    font-size: 16px;
     line-height: 24px;
     color: #878787;
     padding-top: 50px;
@@ -2058,14 +2071,14 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .faq-container .tabulous_active {
-	background: transparent!important;
+    background: transparent!important;
 }
 
 .faq-container #tabs_container {
     padding-left: 19vw;
     padding-right: 18vw;
     border-top: 1px solid #d7d7d7;
-	background: #f5f5f5;
+    background: #f5f5f5;
     height: 400px!important;
 }
 
@@ -2076,7 +2089,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .faq-container #tabs li {
     margin-right: 30px;
-    margin-left: 30px;    	
+    margin-left: 30px;      
 }
 
 .faq-container #tabs li .fa-sort-desc {
@@ -2182,7 +2195,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .tab-info {
-	display: none;
+    display: none;
 }
 
 .faq-container .tabulous-content .tab-content i {
@@ -2201,7 +2214,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .faq-container .home-form label {
     color: #323232;
-    font-family: 'Source Sans Pro', sans-serif;	
+    font-family: 'Source Sans Pro', sans-serif; 
     font-size: 33px;
     line-height: 34px;
     font-weight: 700;
@@ -2218,7 +2231,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .faq-container .home-form .btn {
     float: none;
-	width: 30%;    
+    width: 30%;    
 }
 
 .faq-container #tabs li a, #tabs2 li a, #tabs3 li a, #tabs4 li a, #tabs5 li a {
@@ -2238,14 +2251,14 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .faq-content .input-group-btn {
-	font-size: 20px;
+    font-size: 20px;
     right: 2vw;
     z-index: 3;
-    color: #a8be00;    	
+    color: #a8be00;     
 }
 
 .faq-content .form-serach {
-	font-family: 'Source Sans Pro', sans-serif;	
+    font-family: 'Source Sans Pro', sans-serif; 
     font-size: 14px;
     font-weight: 600;
     font-style: italic;
@@ -2256,7 +2269,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 /*Archive cemitérios*/
 .archive-box-mobile {
-	display: none;
+    display: none;
 }
 
 .folder-box {
@@ -2270,13 +2283,13 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .archive-box-right:hover > .folder-box img{
-	transform: translateX(-100%);
-	opacity: 0;
+    transform: translateX(-100%);
+    opacity: 0;
 }
 
 .archive-box-left:hover > .folder-box img{
-	transform: translateX(100%);
-	opacity: 0;	
+    transform: translateX(100%);
+    opacity: 0; 
 }
 
 .archive-box-right:nth-child(odd) {
@@ -2285,13 +2298,13 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .archive-box-right:nth-child(even) {
-	margin-top: 80px;
+    margin-top: 80px;
     vertical-align: top;
     margin-right: 0vw;    
 }
 
 .archive-box-left .folder-box img {
-	padding-left: 6.7vw;
+    padding-left: 6.7vw;
 }
 
 .archive-box-left:nth-child(even) {
@@ -2306,12 +2319,12 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .archive-box-left .folder-content {
-	line-height: 35px;
-	margin-top: 90px;
-	margin-right: -135px;
-	z-index: 2;
+    line-height: 35px;
+    margin-top: 90px;
+    margin-right: -135px;
+    z-index: 2;
     position: absolute;
-    text-align: left;    	
+    text-align: left;       
 }
 
 .archive-box-right .folder-content {
@@ -2324,20 +2337,20 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .archive-box-right .folder-action,
 .archive-box-left .folder-action {
-	font-size: 14px;
-	font-weight: 700;
-	text-transform: uppercase;
-	text-align: center;
-	background: #615a54;
-	color: #ffffff;
-	padding: 5px;
-	width: 180px;
-	transition: all 1s cubic-bezier(.17,.84,.44,1);	
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    background: #615a54;
+    color: #ffffff;
+    padding: 5px;
+    width: 180px;
+    transition: all 1s cubic-bezier(.17,.84,.44,1); 
 }
 
 .archive-box-right .folder-title,
 .archive-box-left .folder-title {
-	font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 42px;
     font-weight: 700;
     color: #323232;
@@ -2346,37 +2359,37 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .archive-box-right .folder-caption,
 .archive-box-left .folder-caption {
-	font-family: 'Source Sans Pro', sans-serif;	
+    font-family: 'Source Sans Pro', sans-serif; 
     font-size: 13px;
     font-weight: 700;
     color: #323232;
     text-transform: uppercase;
-    transition: all 2s cubic-bezier(.17,.84,.44,1);	
+    transition: all 2s cubic-bezier(.17,.84,.44,1); 
 }
 
 .archive-box-right:hover > .folder-content .folder-title,
 .archive-box-right:hover > .folder-content .folder-action {
-	margin-left: -25px;
+    margin-left: -25px;
 }
 
 .archive-box-right:hover > .folder-content .folder-caption {
-	color: #a4b336;
-	margin-left: -25px;
+    color: #a4b336;
+    margin-left: -25px;
 }
 
 .archive-box-left:hover > .folder-content .folder-title,
 .archive-box-left:hover > .folder-content .folder-action {
-	margin-left: 25px;
+    margin-left: 25px;
 }
 
 .archive-box-left:hover > .folder-content .folder-caption {
-	color: #a4b336;
-	margin-left: 25px;
+    color: #a4b336;
+    margin-left: 25px;
 }
 
 .archive-box-right:hover > .folder-box .folder-box-info,
 .archive-box-left:hover > .folder-box .folder-box-info {
-	color: #7e7e7e;
+    color: #7e7e7e;
 }
 
 .archive-box-right:hover,
@@ -2385,12 +2398,12 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .folder-box-info {
-	position: absolute;
-    display: inline-grid;	
-	max-width: 300px;
+    position: absolute;
+    display: inline-grid;   
+    max-width: 300px;
     padding: 30px;
     color: #ffffff;
-    transition: all 1s cubic-bezier(.17,.84,.44,1);	    
+    transition: all 1s cubic-bezier(.17,.84,.44,1);     
 }
 
 .archive-box-left .folder-box-info .fa.fa-phone {
@@ -2401,9 +2414,9 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .folder-box-info .fa.fa-phone{
-	position: absolute;
-	padding: 34px;
-	font-size: 20px;
+    position: absolute;
+    padding: 34px;
+    font-size: 20px;
 }
 
 .folder-box-info p {
@@ -2417,7 +2430,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .folder-box-info span {
-	font-family: 'Source Sans Pro', sans-serif;	
+    font-family: 'Source Sans Pro', sans-serif; 
     font-size: 14px;
     font-weight: 700;
     line-height: 24px;
@@ -2427,9 +2440,9 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .archive-box-left .folder-box-info {
     margin-left: 12.5vw;
-	position: absolute;
-    display: inline-grid;	
-	max-width: 300px;
+    position: absolute;
+    display: inline-grid;   
+    max-width: 300px;
     padding: 30px;
     color: #ffffff;
     transition: all 1s cubic-bezier(.17,.84,.44,1);    
@@ -2437,15 +2450,15 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 .archive-box-right, .archive-box-left {
     display: inline-flex;
-	margin-right: 10vw;
+    margin-right: 10vw;
     cursor: pointer;
     background: #f5f5f5;
-	transition: all 1.3s cubic-bezier(.17,.84,.44,1);
-	min-width: 500px;              
+    transition: all 1.3s cubic-bezier(.17,.84,.44,1);
+    min-width: 500px;              
 }
 
 .archive-container{
-	min-width: 99vw;
+    min-width: 99vw;
     z-index: 2;
     padding-left: 10vw;
     padding-right: 10vw;
@@ -2458,9 +2471,9 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 /*end-archive cemitérios*/
 
 .webdor-content {
-	background: url(../images/cemiterios/webdor.png);
-	background-size: cover;
-    height: 440px;	
+    background: url(../images/cemiterios/webdor.png);
+    background-size: cover;
+    height: 440px;  
 }
 
 .webdor-layer {
@@ -2471,7 +2484,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .secondary-footer .footer-content {
-	padding-top: 0;
+    padding-top: 0;
 }
 
 .webdor-layer-title{
@@ -2482,11 +2495,11 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     float: left;
     text-align: left;
     padding-bottom: 10px;
-    color: #ffffff;	
+    color: #ffffff; 
 }
 
 .webdor-layer-caption{
-	font-size: 18px;
+    font-size: 18px;
     font-family: 'Arvo';
     float: left;
     text-align: left;
@@ -2496,7 +2509,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .bio-box-mobile {
-	display: none;
+    display: none;
 }
 
 .dropdown-endereco {
@@ -2520,11 +2533,11 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     color: #a7bd02;
     font-size: 28px;
     font-weight: 700;
-	transition: all .3s cubic-bezier(.17,.84,.44,1);
+    transition: all .3s cubic-bezier(.17,.84,.44,1);
 }
 
 .animate-rotate {
-	transform: rotate(180deg);
+    transform: rotate(180deg);
 }
 
 .dropdown-form span {
@@ -2611,23 +2624,23 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .btn-bio-mobile{
-	display: none;
+    display: none;
 }
 
 .btn-bio-box:hover {
-	text-decoration: none;
+    text-decoration: none;
     color: #323232;
 }
 
 .bio-box-desc {
-	position: relative;
+    position: relative;
     bottom: 25px;
     line-height: 30px;
     top: -90px;
     padding: 20px;
     padding-bottom: 10px;
     transition: all .3s ease-out;
-	cursor: pointer;         
+    cursor: pointer;         
 }
 
 .bio-box .title-bio-box {
@@ -2637,14 +2650,14 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .bio-box .cap-bio-box {
-	font-size: 13px;
+    font-size: 13px;
     font-weight: 300;
     color: #ffffff;
     margin-bottom: 15px;   
 }
 
 .bio-info::before {
-	content: '___';
+    content: '___';
     font-size: 24px;
     color: #ced787;
     font-weight: 700;
@@ -2656,7 +2669,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .bio-title {
-	font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 48px;
     font-weight: 700;
     line-height: 46px;
@@ -2676,7 +2689,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 /*tabulous*/
 .tab-action {
-	position: absolute;
+    position: absolute;
     right: 5%;
     bottom: 100px;
     z-index: 1;
@@ -2688,9 +2701,9 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .tab-action span {
-	font-size: 30px;
-	font-weight: 600;
-	color: #323232;
+    font-size: 30px;
+    font-weight: 600;
+    color: #323232;
 }
 
 /*.tab-container {
@@ -2704,7 +2717,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }*/
 
 .tab-box {
-	width: 99vw;
+    width: 99vw;
     background: #ffffff;
     padding-left: 5vw;
     padding-right: 5vw;
@@ -2723,13 +2736,13 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     display: none;
     flex-direction: row;
     justify-content: center;
-    align-items: center;	
+    align-items: center;    
     position: absolute;
     z-index: 3;        
 }
 
 .faq-fone {
-	padding-top: 13px;
+    padding-top: 13px;
     padding-bottom: 12px;
 }
 
@@ -2748,7 +2761,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .faq-fone i {
-	float: left;
+    float: left;
     padding-top: 2px;
     font-size: 25px;
     color: #6b635c;
@@ -2785,20 +2798,20 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 /*swiper*/
 
 .divisor {
-	margin-top: 30px;
+    margin-top: 30px;
     margin-bottom: 8px;
     border: 0;
     border-top: 1px solid #e0e0e0;
     margin-right: 25px;
     display: block;
-	margin-left: 15vw;
+    margin-left: 15vw;
 }
 
 .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
     bottom: 28%;
     width: 99vw;
     text-align: left;
-	padding-left: 19.5vw;
+    padding-left: 19.5vw;
     padding-right: 18vw;
 }
 
@@ -2850,7 +2863,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 
 /*Form-toggle*/
 .form-toggle i{
-	color: #a7bd02;
+    color: #a7bd02;
 }
 /*End Form-toggle*/
 
@@ -2922,7 +2935,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .home-form label{
-	color: #7e7e7e;
+    color: #7e7e7e;
     font-family: 'Arvo', serif;
     font-size: 18px;
     line-height: 26px;
@@ -2949,11 +2962,11 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 /*Estilo do vegas.js*/
 
 .vg-layer-dark{
-	color: #323232;
+    color: #323232;
 }
 
 .vg-layer-light{
-	color: #ffffff;
+    color: #ffffff;
 }
 
 .vg-layer-caption{
@@ -2972,7 +2985,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     font-weight: 700;
     float: left;
     text-align: left; 
-    padding-bottom: 10px;    	
+    padding-bottom: 10px;       
 }
 
 .layer-container {
@@ -3005,11 +3018,11 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .produto-desc .desc-title {
-    font-family: 'Source Sans Pro', sans-serif;	
+    font-family: 'Source Sans Pro', sans-serif; 
     font-size: 32px;
     font-weight: 700;
     line-height: 34px;
-    padding-bottom: 10px;    	
+    padding-bottom: 10px;       
 }
 
 .produto-desc .desc-price {
@@ -3030,7 +3043,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .produto-desc .desc-content {
-	font-family: 'Arvo', serif;	
+    font-family: 'Arvo', serif; 
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;
@@ -3080,7 +3093,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
 }
 
 .produto-box {
-	position: absolute;
+    position: absolute;
     z-index: 1;
 }
 
@@ -3096,7 +3109,7 @@ footer .identidades {
 }
 
 footer .box-identidade {
-	width: 9vw;
+    width: 9vw;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -3152,7 +3165,7 @@ footer .footer-content {
 footer .footer-box .kindle{
     float: right;
     padding-top: 3px;
-	padding-left: 20vw;    	
+    padding-left: 20vw;     
 }
 
 footer .footer-box .copyright {
@@ -3161,7 +3174,7 @@ footer .footer-box .copyright {
     font-size: 14px;
     color: #6f6f6f;
     float: left;
-	padding-right: 12vw;
+    padding-right: 12vw;
 }
 
 footer .footer-box {
@@ -3176,12 +3189,12 @@ footer .footer-box {
 
 footer {
     position: relative;
-	width: 99vw;
+    width: 99vw;
     background: #262626;
 }
 
 .img-mob {
-	display: none;
+    display: none;
 }
 
 .info-menu li span{
@@ -3208,32 +3221,32 @@ footer {
     line-height: 15px;
     padding-top: 4px;
     color: #e0e0e0;
-	margin-top: -1px;    
+    margin-top: -1px;    
 }
 
 .info-menu .info-funeraria{
     background: #c4d06b;
     text-align: center;
     padding-left: 15px;
-	padding-right: 14px;
+    padding-right: 14px;
     padding-top: 5px;
     color: #393939;
     padding-bottom: 5px;
-	margin-top: -1px;    
+    margin-top: -1px;    
 }
 
 .info-menu .info-pause {
     background: #393939;
     background-image: url(../images/box.png);
     width: 50px;
-	margin-top: -1px;        
+    margin-top: -1px;        
 }
 
 .info-menu {
     list-style: none;
     display: inline-flex;
     padding-left: 0;
-	float: right;        
+    float: right;        
 }
 
 /*.custom-container{
@@ -3255,7 +3268,7 @@ footer {
 }
 
 .img-box{
-	position: absolute;
+    position: absolute;
 }
 
 .top-banner {
@@ -3286,7 +3299,7 @@ footer {
 .primary-menu .box-menu{
     font-family: 'Source Sans Pro', sans-serif;
     list-style: none;
-	font-size: 14px;
+    font-size: 14px;
     line-height: 18px;
     font-weight: 300;
     color: #8a8a8a;
@@ -3357,99 +3370,99 @@ footer {
         padding-left: 9vw;
         padding-right: 7.9vw;
     }         
-    /*end contato*/ 	
+    /*end contato*/     
     /*Archive Cemiterios*/
-	.archive-box-right, .archive-box-left {
-	    margin-right: 5vw;
-	}
-	.archive-container {
-	    padding-left: 0vw;
-	    padding-right: 0vw;
-	}	
-	.webdor-layer {
-	    padding-left: 9vw;
-	}
-	.webdor-layer-title {
-	    font-size: 60px;
-    	line-height: 60px;	    
-	}
-	/*End Archive Cemiterios*/	
-	.produto-desc .desc-title {
-	    font-size: 28px;
-	}	
-	.btn-bio-box {
-	    font-size: 12px;
-	}	    	
-	.vg-layer-caption {
-	    padding-right: 120px;
-	}    	
-	.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
-	    padding-left: 11.5vw;
-	    padding-right: 11vw;
-    	bottom: 26%;	    
-	}	
-	.layer-container {
-	    padding-left: 10.7vw;
-	    padding-right: 15vw;
-	}
-	.custom-container {
-	    padding-left: 9vw;
-	    padding-right: 7.9vw;
-	}
-	#tabs_container {
-	    min-height: 160px;
-	}	
-	.faq-box {
-	    width: 85%;
-	}	
-	.form-box {
-	    padding-top: 3vh;
-	}	
-	.tab-box {
-	    margin-left: 9vw;
-	    margin-right: 7.9vw;
-		padding-top: 3vh;
-		padding-bottom: 3vh;	    
-	}
-	.dropdown-form {
-	    right: 7.9%;
-	    padding-top: 5px;
-	    padding-bottom: 5px;
-	    padding-left: 25px;
-	    padding-right: 25px;	    
-	}
-	.bio-content {
-	    padding-top: 10vh;
-	    padding-bottom: 10vh;		
-	    padding-left: 9.4vw;
-    	padding-right: 7.9vw;
-	}
-	.produto:last-child {
-	    margin-left: 2vw;
-	}
-	.produtos-content .produto .produto-desc{
-		width: 245px;
-	}	
-	footer .footer-content {
-    	padding-top: 220px;
-	}	    	
-	footer .identidades {
-	    width: 65vw;
-	}
-	footer .box-identidade {
-	    width: 10vw;
-	}
-	footer .enderecos {
-	    padding-left: 20vw;
-	    padding-right: 18vw;
-	}
-	.footer-info {
-	    padding-left: 20vw;
-	    padding-right: 18vw;
-	}
-	footer .footer-box .copyright {
-		padding-right: 25vw;					
-	}
+    .archive-box-right, .archive-box-left {
+        margin-right: 5vw;
+    }
+    .archive-container {
+        padding-left: 0vw;
+        padding-right: 0vw;
+    }   
+    .webdor-layer {
+        padding-left: 9vw;
+    }
+    .webdor-layer-title {
+        font-size: 60px;
+        line-height: 60px;      
+    }
+    /*End Archive Cemiterios*/  
+    .produto-desc .desc-title {
+        font-size: 28px;
+    }   
+    .btn-bio-box {
+        font-size: 12px;
+    }           
+    .vg-layer-caption {
+        padding-right: 120px;
+    }       
+    .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        padding-left: 11.5vw;
+        padding-right: 11vw;
+        bottom: 26%;        
+    }   
+    .layer-container {
+        padding-left: 10.7vw;
+        padding-right: 15vw;
+    }
+    .custom-container {
+        padding-left: 9vw;
+        padding-right: 7.9vw;
+    }
+    #tabs_container {
+        min-height: 160px;
+    }   
+    .faq-box {
+        width: 85%;
+    }   
+    .form-box {
+        padding-top: 3vh;
+    }   
+    .tab-box {
+        margin-left: 9vw;
+        margin-right: 7.9vw;
+        padding-top: 3vh;
+        padding-bottom: 3vh;        
+    }
+    .dropdown-form {
+        right: 7.9%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 25px;
+        padding-right: 25px;        
+    }
+    .bio-content {
+        padding-top: 10vh;
+        padding-bottom: 10vh;       
+        padding-left: 9.4vw;
+        padding-right: 7.9vw;
+    }
+    .produto:last-child {
+        margin-left: 2vw;
+    }
+    .produtos-content .produto .produto-desc{
+        width: 245px;
+    }   
+    footer .footer-content {
+        padding-top: 220px;
+    }           
+    footer .identidades {
+        width: 65vw;
+    }
+    footer .box-identidade {
+        width: 10vw;
+    }
+    footer .enderecos {
+        padding-left: 20vw;
+        padding-right: 18vw;
+    }
+    .footer-info {
+        padding-left: 20vw;
+        padding-right: 18vw;
+    }
+    footer .footer-box .copyright {
+        padding-right: 25vw;                    
+    }
 
 }
 @media screen and (min-width:1360px) and (max-width: 1400px) {
@@ -3486,80 +3499,80 @@ footer {
         padding-left: 11.8vw;
         padding-right: 9.9vw;
     }        
-    /*end contato*/	
+    /*end contato*/ 
     /*Archive Cemiterios*/
-	.archive-box-right, .archive-box-left {
-	    margin-right: 5vw;
-	}
-	.webdor-layer {
-	    padding-left: 12vw;
-	}
-	/*End Archive Cemiterios*/	
-	#tabs_container {
-	    min-height: 160px;
-	}	
-	.form-box {
-	    padding-top: 5%;
-	}
-	.bio-content {
-	    padding-left: 12vw;
-	    padding-right: 10vw;
-	}
-	.produtos-content {
-	    padding-left: 15.5vw;		
-	}
-	.produto:last-child {
-		margin-left: 4vw;
-	}	
-	.dropdown-form {
-	    right: 9.9%;
-	    padding-top: 10px;
-	    padding-bottom: 10px;
-	    padding-left: 30px;
-	    padding-right: 30px;	    
-	}
-	.tab-box {
-	    margin-left: 11.8vw;
-	    margin-right: 10vw;
-	    padding-top: 40px;
-	    padding-bottom: 40px;
-	}
-	.faq-box {
-	    width: 80%;
-	}	
-	.custom-container {
-	    padding-left: 11.8vw;
-	    padding-right: 9.9vw;
-	}
-	.layer-container {
-	    padding-left: 11.8vw;
-	    padding-right: 9.9vw;
-	}
-	.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
-	    padding-left: 12.5vw;
-	    padding-right: 10.8vw;
-	    bottom: 20%;			    	
-	}
-	footer .identidades {
-		width: 74vw;
-	}
-	footer .box-identidade {
-	    width: 10vw;
-	}	    	
-	footer .enderecos {
-	    padding-left: 20vw;
-	    padding-right: 20vw;
-	}
-	.footer-info {
-	    padding-left: 20vw;
-	    padding-right: 20vw;
-	}
-	footer .footer-box .copyright {
-	    padding-right: 18vw;		
-	}
-	footer .footer-content {
-		padding-top: 220px;
-	}	
+    .archive-box-right, .archive-box-left {
+        margin-right: 5vw;
+    }
+    .webdor-layer {
+        padding-left: 12vw;
+    }
+    /*End Archive Cemiterios*/  
+    #tabs_container {
+        min-height: 160px;
+    }   
+    .form-box {
+        padding-top: 5%;
+    }
+    .bio-content {
+        padding-left: 12vw;
+        padding-right: 10vw;
+    }
+    .produtos-content {
+        padding-left: 15.5vw;       
+    }
+    .produto:last-child {
+        margin-left: 4vw;
+    }   
+    .dropdown-form {
+        right: 9.9%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;        
+    }
+    .tab-box {
+        margin-left: 11.8vw;
+        margin-right: 10vw;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .faq-box {
+        width: 80%;
+    }   
+    .custom-container {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }
+    .layer-container {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }
+    .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        padding-left: 12.5vw;
+        padding-right: 10.8vw;
+        bottom: 20%;                    
+    }
+    footer .identidades {
+        width: 74vw;
+    }
+    footer .box-identidade {
+        width: 10vw;
+    }           
+    footer .enderecos {
+        padding-left: 20vw;
+        padding-right: 20vw;
+    }
+    .footer-info {
+        padding-left: 20vw;
+        padding-right: 20vw;
+    }
+    footer .footer-box .copyright {
+        padding-right: 18vw;        
+    }
+    footer .footer-content {
+        padding-top: 220px;
+    }   
 }
 @media screen and (min-width:1400px) and (max-width: 1599px) {
     /*FAQ*/
@@ -3595,82 +3608,82 @@ footer {
         padding-left: 9.8vw;
         padding-right: 7.7vw;
     }           
-    /*end contato*/	
+    /*end contato*/ 
     /*Archive Cemiterios*/
-	.archive-box-right, .archive-box-left {
-	    margin-right: 5vw;
-	}		
-	.webdor-layer {
-	    padding-left: 10vw;
-	}
-	.webdor-layer-title {
-	    font-size: 65px;
-    	line-height: 55px;	    	    
-	}	
-	/*End Archive Cemiterios*/	
-	.bio-content {
-	    padding-left: 10vw;
-	    padding-right: 7.7vw;    
-	}	
-	.produtos-content {
-	    padding-left: 15.5vw;		
-	}
-	.produto:last-child {
-    	/*margin-left: 4vw;*/
-	}	
-	.dropdown-form {
-    	right: 7.7vw;
-	    padding-top: 11px;
-	    padding-bottom: 11px;
-	    padding-left: 30px;
-	    padding-right: 30px;    	
-	}
-	.tab-box {
-	    margin-left: 9.8vw;
-	    margin-right: 7.7vw;	
-	}
-	.faq-box {
-	    width: 80%;
-	}	
-	.custom-container {
-    	padding-left: 9.8vw;
-	    padding-right: 7.7vw;
-	}
-	.layer-container {
-	    padding-left: 9.8vw;
-    	padding-right: 12.7vw;
-	}
-	.vg-layer-title {
-	    font-size: 65px;
-	}	
-	.vg-layer-caption {
-	    font-size: 16px;
-	    line-height: 20px;
-	}	
-	.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
-    	padding-left: 10.5vw;
-	    padding-right: 7.8vw;			    	
-	}
-	footer .identidades {
-		width: 74vw;
-	}
-	footer .box-identidade {
-	    width: 10vw;
-	}	    	
-	footer .enderecos {
-	    padding-left: 20vw;
-	    padding-right: 20vw;
-	}
-	.footer-info {
-	    padding-left: 20vw;
-	    padding-right: 20vw;
-	}
-	footer .footer-box .copyright {
-	    padding-right: 18vw;		
-	}
-	footer .footer-content {
-		padding-top: 200px;
-	}	
+    .archive-box-right, .archive-box-left {
+        margin-right: 5vw;
+    }       
+    .webdor-layer {
+        padding-left: 10vw;
+    }
+    .webdor-layer-title {
+        font-size: 65px;
+        line-height: 55px;              
+    }   
+    /*End Archive Cemiterios*/  
+    .bio-content {
+        padding-left: 10vw;
+        padding-right: 7.7vw;    
+    }   
+    .produtos-content {
+        padding-left: 15.5vw;       
+    }
+    .produto:last-child {
+        /*margin-left: 4vw;*/
+    }   
+    .dropdown-form {
+        right: 7.7vw;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-left: 30px;
+        padding-right: 30px;        
+    }
+    .tab-box {
+        margin-left: 9.8vw;
+        margin-right: 7.7vw;    
+    }
+    .faq-box {
+        width: 80%;
+    }   
+    .custom-container {
+        padding-left: 9.8vw;
+        padding-right: 7.7vw;
+    }
+    .layer-container {
+        padding-left: 9.8vw;
+        padding-right: 12.7vw;
+    }
+    .vg-layer-title {
+        font-size: 65px;
+    }   
+    .vg-layer-caption {
+        font-size: 16px;
+        line-height: 20px;
+    }   
+    .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        padding-left: 10.5vw;
+        padding-right: 7.8vw;                   
+    }
+    footer .identidades {
+        width: 74vw;
+    }
+    footer .box-identidade {
+        width: 10vw;
+    }           
+    footer .enderecos {
+        padding-left: 20vw;
+        padding-right: 20vw;
+    }
+    .footer-info {
+        padding-left: 20vw;
+        padding-right: 20vw;
+    }
+    footer .footer-box .copyright {
+        padding-right: 18vw;        
+    }
+    footer .footer-content {
+        padding-top: 200px;
+    }   
 }
 
 @media screen and (min-width:1600px) and (max-width: 1919px) {
@@ -3704,47 +3717,47 @@ footer {
         padding-right: 12.8vw;
     }
     /*end contato*/
-	/*Archive Cemiterios*/
-	.archive-box-right, .archive-box-left {
-	    margin-right: 7vw;
-	}	
-	.webdor-layer {
-	    padding-left: 14vw;
-	}
-	.webdor-layer-title {
-	    font-size: 70px;
-    	line-height: 55px;	    	    
-	}		
-	/*End Archive Cemiterios*/
+    /*Archive Cemiterios*/
+    .archive-box-right, .archive-box-left {
+        margin-right: 7vw;
+    }   
+    .webdor-layer {
+        padding-left: 14vw;
+    }
+    .webdor-layer-title {
+        font-size: 70px;
+        line-height: 55px;              
+    }       
+    /*End Archive Cemiterios*/
     /*Home*/
-	.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
-	    bottom: 26%;
-	    padding-left: 14.5vw;
-	}	
-	.layer-container {
-	    padding-left: 13.8vw;
-	}    	
-	.custom-container{
-		padding-left: 13.8vw;
-		padding-right: 12.8vw;	
-	}
-	.tab-box {
-	    margin-left: 13.8vw;
-    	margin-right: 12.7vw;
-	    padding-top: 40px;
-	    padding-bottom: 40px;	    
-	}    	
-	.dropdown-form {
-    	right: 12.7vw;
-	}
-	.bio-content {
-	    padding-left: 14vw;
-	    padding-right: 13vw;
-	}	
-	footer .footer-content {
-    	padding-top: 200px;
-	}
-	/*End Home*/	
+    .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        bottom: 26%;
+        padding-left: 14.5vw;
+    }   
+    .layer-container {
+        padding-left: 13.8vw;
+    }       
+    .custom-container{
+        padding-left: 13.8vw;
+        padding-right: 12.8vw;  
+    }
+    .tab-box {
+        margin-left: 13.8vw;
+        margin-right: 12.7vw;
+        padding-top: 40px;
+        padding-bottom: 40px;       
+    }       
+    .dropdown-form {
+        right: 12.7vw;
+    }
+    .bio-content {
+        padding-left: 14vw;
+        padding-right: 13vw;
+    }   
+    footer .footer-content {
+        padding-top: 200px;
+    }
+    /*End Home*/    
 }
 /*end web resolutions*/
 
@@ -3762,412 +3775,412 @@ footer {
 }
 
 @media screen and (min-width:400px) and (max-width:1199px) {
-	body {
-	    width: 100vw;
-	    overflow-x: hidden;
-	}	
-	/*cemitérios*/
+    body {
+        width: 100vw;
+        overflow-x: hidden;
+    }   
+    /*cemitérios*/
 
-	.folder-content {
-	    padding: 30px;
-	    padding-top: 15px;
-	    padding-bottom: 0;
-    	background: #ffffff;
-    	text-align: left;    		    
-	}
+    .folder-content {
+        padding: 30px;
+        padding-top: 15px;
+        padding-bottom: 0;
+        background: #ffffff;
+        text-align: left;               
+    }
 
-	.folder-box-info .fa.fa-phone {
-		font-size: 30px;
-		position: relative;
-		padding: 0;
-		vertical-align: middle;
-	}
+    .folder-box-info .fa.fa-phone {
+        font-size: 30px;
+        position: relative;
+        padding: 0;
+        vertical-align: middle;
+    }
 
-	.webdor-layer {
-	    padding-left: 0;
-	    padding-right: 0;
-	    padding-top: 290px;
-	}
+    .webdor-layer {
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 290px;
+    }
 
-	.webdor-layer-title {
-	    font-size: 40px;
-	    line-height: 40px;
-	}
+    .webdor-layer-title {
+        font-size: 40px;
+        line-height: 40px;
+    }
 
-	.webdor-layer-caption {
-	    font-size: 16px;
-	    line-height: 20px;
-	}
+    .webdor-layer-caption {
+        font-size: 16px;
+        line-height: 20px;
+    }
 
-	.folder-box-info{
-		position: relative;
-		color: #7e7e7e;
-    	padding-top: 0;
-    	max-width: 99vw;
-    	background: #ffffff;
-    	padding-bottom: 61px;    	    	    		
-	}
+    .folder-box-info{
+        position: relative;
+        color: #7e7e7e;
+        padding-top: 0;
+        max-width: 99vw;
+        background: #ffffff;
+        padding-bottom: 61px;                           
+    }
 
-	.folder-box {
-	    overflow: hidden;
-	    text-align: center;
-	}
+    .folder-box {
+        overflow: hidden;
+        text-align: center;
+    }
 
-	.folder-box img {
-	    width: 100%;
-	    height: auto;
-	}	
+    .folder-box img {
+        width: 100%;
+        height: auto;
+    }   
 
-	.folder-box-info span {
-		font-size: 17px;
-		padding-left: 10px;
-		letter-spacing: 4px;
-		text-align: center;
-	}
+    .folder-box-info span {
+        font-size: 17px;
+        padding-left: 10px;
+        letter-spacing: 4px;
+        text-align: center;
+    }
 
-	.folder-caption {
-		font-family: 'Source Sans Pro', sans-serif;
-	    font-weight: 700;
-	    font-size: 15px;
-	    color: #a4b336;
-	    letter-spacing: 2px;
-	}
+    .folder-caption {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+        color: #a4b336;
+        letter-spacing: 2px;
+    }
 
-	.folder-title {
-		font-family: 'Source Sans Pro', sans-serif;
-	    font-size: 36px;
-	    line-height: 34px;
-	    font-weight: 700;
-	    color: #323232;
-	}
+    .folder-title {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 36px;
+        line-height: 34px;
+        font-weight: 700;
+        color: #323232;
+    }
 
-	.folder-box-info p {
-		font-size: 17px;
-		line-height: 24px;
-    	padding-bottom: 20px;
-    	padding-right: 0;    			
-	}
+    .folder-box-info p {
+        font-size: 17px;
+        line-height: 24px;
+        padding-bottom: 20px;
+        padding-right: 0;               
+    }
 
-	.folder-action {
-	    font-family: 'Source Sans Pro', sans-serif;
-	    text-align: center;
-	    font-size: 15px;
-	    font-weight: 700;
-	    padding: 15px;
-	    width: 40%;
-	    background: #99a63a;
-	    text-transform: uppercase;
-	    /* margin-left: auto; */
-	    /* margin-right: auto; */
-	    position: absolute;
-	    margin-top: -30px;
-	    left: 30vw;
-	}
+    .folder-action {
+        font-family: 'Source Sans Pro', sans-serif;
+        text-align: center;
+        font-size: 15px;
+        font-weight: 700;
+        padding: 15px;
+        width: 40%;
+        background: #99a63a;
+        text-transform: uppercase;
+        /* margin-left: auto; */
+        /* margin-right: auto; */
+        position: absolute;
+        margin-top: -30px;
+        left: 30vw;
+    }
 
-	.archive-container {
-		display: none;
-	}	
-	.archive-box-left, .archive-box-right {
-		display: none;
-	}
-	.archive-box-mobile {
-	    display: inline-flex;
-	    width: 80%;
-	    margin-left: 10vw;
-	    padding-bottom: 50px;
-	    padding-top: 50px;
-	}	
-	/*end-cemitérios*/
-	.swiper-container {
-	    height: 600px;
-	    padding-top: 130px;
-	}
-	.dropdown-form {
-    	position: relative;
-    	bottom: 0;
-    	right: 0;
-    	text-align: center;    	
-    	padding-left: 20px;    	
-	}
-	.bio-box {
-	    display: block;
-	}
-	.bio-info {
-	    padding-right: 0;
-	    padding-bottom: 40px;
-	}	
-	.produto-box {
-	    position: relative;
-	}
-	.produto:last-child {
-	   	margin-left: 0
-	}	
-	.produtos-content .produto {
-	    padding-bottom: 6vh;
-    	display: block;	    
-	}	
-	.produtos-content .produto .produto-desc {
-		width: 85vw;
-    	text-align: center;		
-	}	
-	.plamor-btn {
-	    margin-top: 0;
-	    left: 20%;
-	    right: 16%;	
-	}	
-	.desc-btn {
-	    margin-top: 0;
-	    left: 20%;
-	    right: 16%;   
-	}
-	.produto-img {
-	    text-align: center;
-	}	
-	.produto-desc .desc-content {
-	    padding-bottom: 15px;
-	}
-	.produtos-content {
-	    padding-left: 10vw;
-	    padding-right: 10vw;
-    	padding-top: 0;
-		padding-bottom: 30px;    		    
-	}	
-	.box-overflow {
-	    height: 20vh;
-	}
-	.vg-layer-caption {
-		font-size: 18px;
-		padding-right: 30px;
-		line-height: 28px;
-	}	
-	.bio-box-1, .bio-box-2, .bio-box-3, .bio-box-4 {
-	    height: 20vh;
-	}
-	.bio-box-desc {
-	    top: -120px;
-	    padding: 20px;
-	}
-	.box-overflow:hover > .bio-box-desc {
-	    top: -120px;
-	    padding: 20px;
-	}
-	.box-overflow:hover > .bio-box-1, .box-overflow:hover > .bio-box-2, .box-overflow:hover > .bio-box-3, .box-overflow:hover > .bio-box-4 {
-	    transform: scale(1);
-	}		
-	.btn-bio-mobile{
-	    display: block;
-	    position: absolute;
-	    right: 3vw;
-	    bottom: 6vh;
-	    font-size: 35px;
-	    padding-left: 10px;
-	    padding-right: 10px;
-	    padding-top: 5px;
-	    padding-bottom: 5px;
-	    background: #c4d06b;
-	    color: #7e7e7e;	    
-	}
-	.btn-bio-box{
-		display: none;
-	} 			
-	.divisor{
-		display: none;
-	}
-	.tab-box {
-	    margin-left: 0;
-	    margin-right: 0;
-		padding-right: 6vw;
-		padding-left: 8vw;   
-	}
-	.layer-container {
-	    padding-left: 5vw;
-	    padding-right: 5vw;
-	    padding-bottom: 40px;
-	    position: absolute;
-	    bottom: 0;
-	}	
-	.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
-		display: none
-	}
-	.bio-content {
-	    padding-top: 1vh;
-	    padding-bottom: 5vh;
-	    padding-left: 8vw;
-	    padding-right: 8vw;    
-	}	
-	.faq-box {
-	    width: 100%;
-	}	
-	.vg-layer-title {
-	    font-size: 40px;
-	    line-height: 44px;
-	}	
-	.bio-title {
-	    font-size: 35px;
-	}	
-	.custom-container {
-	    min-width: 100%;
-	    margin-left: 0;
-	    padding: 0;
-	}
-	.info-pause{
-		display: none;
-	}
-	.info-menu {
-	    float: left;
-		width: 100vw;
-    	margin-top: -1px;		
-	}	
-	.info-menu .info-funeraria {
-		width: 50%;
-	    padding-top: 10px;
-	    padding-bottom: 10px;
-    	text-transform: uppercase;	    		
-	}	
-	.info-menu .info-central {
-		width: 50%;
-	    padding-top: 10px;
-	    padding-bottom: 0;
-		text-transform: uppercase;	    		
-	}	
-	.img-box {
-	    display: none;
-	}	
-	.img-mob {
-	    display: block;
-	    padding-bottom: 5px;
-	    padding-left: 5vw;	
-	}
-	.primary-menu, .secondary-menu{
-		display: none;
-	}
-	.mobile-menu{
-	    display: block;
-	    float: right;
-		margin-right: 10vw;
-	    padding-top: 5px;
-    	padding-bottom: 5px;	    	
-	}
-	.mobile-menu .fa-bars{
-    	font-size: 40px;
-    	color: #c4d06b;		
-	}
-	.top-banner {
-		width: 100vw;
-	    padding-top: 10px;
-	}	
-	.info-menu li span {
-		font-size: 14px;
-		line-height: 18px;
-		font-weight: 700;		
-	}	
-	.info-menu li p {
-    	font-size: 22px;
-	    font-weight: 800;
-	}
-	footer {
-		width: 100vw;
-	}
-	footer .footer-box .kindle {
-	    width: 100%;
-	    padding-bottom: 20px;
-	    padding-top: 10px;
-	    padding-left: 0;
-	}	
-	footer .footer-box .copyright {
-	    float: none;
-    	padding-right: 0;
-    	font-weight: 400;    		    
-	}	
-	footer .identidades {
-		display: none;
-	}
-	footer .footer-content {
-    	padding-top: 0vh;
-    	padding-bottom: 2vh;
-    	width: 100vw;
-	}
-	footer .enderecos {
-	    padding-left: 10vw;
-	    padding-right: 10vw;
-	    padding-top: 4vh;
-	    padding-bottom: 0.5vh;	    
-	}
-	footer .footer-info {
-	    padding-left: 10vw;
-	    padding-right: 10vw;
-	}		
-	footer .footer-box {
-	    display: block;
-	    width: 100vw;
-	}
-	footer .endereco-content {
-	    font-size: 16px;
-	}
-	footer .endereco-title {
-	    font-size: 18px;
-    	font-weight: 400;
-    	padding-bottom: 1vh;    	    
-	}
-	footer .mobile-dropdown {
-		display: none;
-	}
-	.footer-info .footer-info-title {
-	    font-size: 18px;
-	    font-weight: 400;
-	    padding-bottom: 1vh;
-	}
+    .archive-container {
+        display: none;
+    }   
+    .archive-box-left, .archive-box-right {
+        display: none;
+    }
+    .archive-box-mobile {
+        display: inline-flex;
+        width: 80%;
+        margin-left: 10vw;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }   
+    /*end-cemitérios*/
+    .swiper-container {
+        height: 600px;
+        padding-top: 130px;
+    }
+    .dropdown-form {
+        position: relative;
+        bottom: 0;
+        right: 0;
+        text-align: center;     
+        padding-left: 20px;     
+    }
+    .bio-box {
+        display: block;
+    }
+    .bio-info {
+        padding-right: 0;
+        padding-bottom: 40px;
+    }   
+    .produto-box {
+        position: relative;
+    }
+    .produto:last-child {
+        margin-left: 0
+    }   
+    .produtos-content .produto {
+        padding-bottom: 6vh;
+        display: block;     
+    }   
+    .produtos-content .produto .produto-desc {
+        width: 85vw;
+        text-align: center;     
+    }   
+    .plamor-btn {
+        margin-top: 0;
+        left: 20%;
+        right: 16%; 
+    }   
+    .desc-btn {
+        margin-top: 0;
+        left: 20%;
+        right: 16%;   
+    }
+    .produto-img {
+        text-align: center;
+    }   
+    .produto-desc .desc-content {
+        padding-bottom: 15px;
+    }
+    .produtos-content {
+        padding-left: 10vw;
+        padding-right: 10vw;
+        padding-top: 0;
+        padding-bottom: 30px;               
+    }   
+    .box-overflow {
+        height: 20vh;
+    }
+    .vg-layer-caption {
+        font-size: 18px;
+        padding-right: 30px;
+        line-height: 28px;
+    }   
+    .bio-box-1, .bio-box-2, .bio-box-3, .bio-box-4 {
+        height: 20vh;
+    }
+    .bio-box-desc {
+        top: -120px;
+        padding: 20px;
+    }
+    .box-overflow:hover > .bio-box-desc {
+        top: -120px;
+        padding: 20px;
+    }
+    .box-overflow:hover > .bio-box-1, .box-overflow:hover > .bio-box-2, .box-overflow:hover > .bio-box-3, .box-overflow:hover > .bio-box-4 {
+        transform: scale(1);
+    }       
+    .btn-bio-mobile{
+        display: block;
+        position: absolute;
+        right: 3vw;
+        bottom: 6vh;
+        font-size: 35px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        background: #c4d06b;
+        color: #7e7e7e;     
+    }
+    .btn-bio-box{
+        display: none;
+    }           
+    .divisor{
+        display: none;
+    }
+    .tab-box {
+        margin-left: 0;
+        margin-right: 0;
+        padding-right: 6vw;
+        padding-left: 8vw;   
+    }
+    .layer-container {
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-bottom: 40px;
+        position: absolute;
+        bottom: 0;
+    }   
+    .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        display: none
+    }
+    .bio-content {
+        padding-top: 1vh;
+        padding-bottom: 5vh;
+        padding-left: 8vw;
+        padding-right: 8vw;    
+    }   
+    .faq-box {
+        width: 100%;
+    }   
+    .vg-layer-title {
+        font-size: 40px;
+        line-height: 44px;
+    }   
+    .bio-title {
+        font-size: 35px;
+    }   
+    .custom-container {
+        min-width: 100%;
+        margin-left: 0;
+        padding: 0;
+    }
+    .info-pause{
+        display: none;
+    }
+    .info-menu {
+        float: left;
+        width: 100vw;
+        margin-top: -1px;       
+    }   
+    .info-menu .info-funeraria {
+        width: 50%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-transform: uppercase;              
+    }   
+    .info-menu .info-central {
+        width: 50%;
+        padding-top: 10px;
+        padding-bottom: 0;
+        text-transform: uppercase;              
+    }   
+    .img-box {
+        display: none;
+    }   
+    .img-mob {
+        display: block;
+        padding-bottom: 5px;
+        padding-left: 5vw;  
+    }
+    .primary-menu, .secondary-menu{
+        display: none;
+    }
+    .mobile-menu{
+        display: block;
+        float: right;
+        margin-right: 10vw;
+        padding-top: 5px;
+        padding-bottom: 5px;            
+    }
+    .mobile-menu .fa-bars{
+        font-size: 40px;
+        color: #c4d06b;     
+    }
+    .top-banner {
+        width: 100vw;
+        padding-top: 10px;
+    }   
+    .info-menu li span {
+        font-size: 14px;
+        line-height: 18px;
+        font-weight: 700;       
+    }   
+    .info-menu li p {
+        font-size: 22px;
+        font-weight: 800;
+    }
+    footer {
+        width: 100vw;
+    }
+    footer .footer-box .kindle {
+        width: 100%;
+        padding-bottom: 20px;
+        padding-top: 10px;
+        padding-left: 0;
+    }   
+    footer .footer-box .copyright {
+        float: none;
+        padding-right: 0;
+        font-weight: 400;               
+    }   
+    footer .identidades {
+        display: none;
+    }
+    footer .footer-content {
+        padding-top: 0vh;
+        padding-bottom: 2vh;
+        width: 100vw;
+    }
+    footer .enderecos {
+        padding-left: 10vw;
+        padding-right: 10vw;
+        padding-top: 4vh;
+        padding-bottom: 0.5vh;      
+    }
+    footer .footer-info {
+        padding-left: 10vw;
+        padding-right: 10vw;
+    }       
+    footer .footer-box {
+        display: block;
+        width: 100vw;
+    }
+    footer .endereco-content {
+        font-size: 16px;
+    }
+    footer .endereco-title {
+        font-size: 18px;
+        font-weight: 400;
+        padding-bottom: 1vh;            
+    }
+    footer .mobile-dropdown {
+        display: none;
+    }
+    .footer-info .footer-info-title {
+        font-size: 18px;
+        font-weight: 400;
+        padding-bottom: 1vh;
+    }
 
-	.footer-info-content {
-	    font-size: 16px;
-	}
+    .footer-info-content {
+        font-size: 16px;
+    }
 
-	.info {
-	    padding-bottom: 2vh;
-	}
-	.dropdown-endereco {
-	    display: block;
-	    position: relative;
-	    top: -1px;
-	    bottom: 0;
-	    right: 0;
-	    text-align: left;
-	    z-index: 2;
-	    background: #c4d062;
-	    padding-top: 10px;
-	    padding-bottom: 10px;
-	    padding-left: 10vw;
-	    padding-right: 10vw;
-	    cursor: pointer;
-	    width: 100vw;
-	}
-	.dropdown-endereco span {
-	    font-family: 'Source Sans Pro', sans-serif;
-    	font-size: 26px;
-	    font-weight: 700;
-	    color: #323232;
-	    padding-right: 15px;
-	}	
-	.dropdown-endereco .fa-angle-down {
-	    color: #323232;
-		font-size: 40px;
-		font-weight: 200;
-		position: absolute;
-		top: 1.3vh;
-    	right: 10vw;		
-	    transition: all .3s cubic-bezier(.17,.84,.44,1);
-	}	
-	.box-endereco {
-	    padding-bottom: 2vh;
-	}
-	.dropdown-form span {
-    	font-size: 26px;
-	}				
-	.dropdown-form .fa-angle-down {
-	    font-size: 40px;
-	    font-weight: 200;
-	    position: absolute;
-	}	
+    .info {
+        padding-bottom: 2vh;
+    }
+    .dropdown-endereco {
+        display: block;
+        position: relative;
+        top: -1px;
+        bottom: 0;
+        right: 0;
+        text-align: left;
+        z-index: 2;
+        background: #c4d062;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10vw;
+        padding-right: 10vw;
+        cursor: pointer;
+        width: 100vw;
+    }
+    .dropdown-endereco span {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 26px;
+        font-weight: 700;
+        color: #323232;
+        padding-right: 15px;
+    }   
+    .dropdown-endereco .fa-angle-down {
+        color: #323232;
+        font-size: 40px;
+        font-weight: 200;
+        position: absolute;
+        top: 1.3vh;
+        right: 10vw;        
+        transition: all .3s cubic-bezier(.17,.84,.44,1);
+    }   
+    .box-endereco {
+        padding-bottom: 2vh;
+    }
+    .dropdown-form span {
+        font-size: 26px;
+    }               
+    .dropdown-form .fa-angle-down {
+        font-size: 40px;
+        font-weight: 200;
+        position: absolute;
+    }   
 }
 
 /*end mobile resolutions
