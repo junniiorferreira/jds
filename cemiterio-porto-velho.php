@@ -25,7 +25,7 @@
             <div class="swiper-slide" style="background: url('assets/images/cemiterio/webdor1.png'); background-size: cover;">
             	<div class="layer-container">
 	            	<div class="col-lg-6 col-md-12 col-xs-12">
-		            	<p class="vg-layer-title vg-layer-light">Sulacap</p>
+		            	<p class="vg-layer-title vg-layer-light">Porto Velho</p>
 		            	<span class="vg-layer-caption  vg-layer-light">Parques, jardins e belíssimos monumentos, em um ambiente de paz e total harmonia com a natureza.</span>
 	            	</div>
 	            	<div class="col-lg-6 col-md-12 col-xs-12"></div>
