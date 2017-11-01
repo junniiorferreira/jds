@@ -3337,6 +3337,80 @@ footer {
 
 /*web resolutions*/
 @media screen and (min-width:1200px) and (max-width: 1359px) {
+    /*Funerária*/
+    .funeraria-container .urnas .urna-list {
+        padding-left: 0vw;
+        padding-right: 3vw;
+    }    
+    .urna-box.urna-open .urna-hover {
+        min-width: auto;
+    }    
+    .funeraria-container .urnas .urna-box {
+        width: 485px;
+    }    
+    .urnas .urna-box .urna-pre {
+        padding: 5px;
+        padding-bottom: 5px;
+        padding-top: 185px;
+    }
+    .funeraria-content .webdor-layer {
+        padding-left: 9vw;
+        padding-right: 7.9vw;
+    }    
+    .funeraria-container {;
+        padding-left: 9vw;
+        padding-right: 7.9vw; 
+    }    
+    /*End Funerária*/     
+    /*Plano-Funeral*/
+    .plano-content .webdor-layer {
+        padding-left: 9vw;
+        padding-right: 7.9vw;
+    }
+    .plano-container .planos {
+        padding-left: 9vw;
+        padding-right: 7.9vw;
+    }
+    .plano-box .tabulous-title {
+        font-size: 13px;
+        padding: 0px;     
+    }
+    .plano-box .plano-info:after {
+        margin-left: 9vw;         
+    }
+    .plano-price .plamor-btn {
+        margin-left: 3vw;     
+    }
+    .plano-container .map-box {
+        padding-left: 9vw;
+        padding-right: 7.9vw;
+    }
+    .plano-content .plano-info .box-head {
+        margin-top: 75%;
+    }        
+    /*End Plano-Funeral*/     
+    /*Novidades*/
+    .novidades-list .checklist-box-title {
+        font-size: 22px;
+        line-height: 25px;
+    }     
+    .novidades-frame {
+        padding-left: 10vw;
+        padding-right: 8.9vw;
+    }   
+    .novidades-list {
+        padding-left: 9vw;
+        padding-right: 7.9vw;
+    }    
+    .novidades-container #wrapper #tabs ul {
+        width: 85%;
+        float: right;
+        padding-right: 7vw;
+    }    
+    .novidades-frame .frame-limit {
+        width: 40%;
+    }    
+    /*End Novidades*/
     /*FAQ*/
     .faq-content .webdor-layer {
         padding-left: 9vw;
@@ -3469,6 +3543,68 @@ footer {
 
 }
 @media screen and (min-width:1360px) and (max-width: 1400px) {
+    /*Funerária*/
+    .urnas .urna-box .urna-pre {
+        padding: 20px;
+        padding-bottom: 15px;
+        padding-top: 200px;
+    }
+    .funeraria-container .urnas .urna-list {
+        padding-right: 3vw;
+    }    
+    .funeraria-content .webdor-layer {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }    
+    .funeraria-container {;
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }    
+    /*End Funerária*/     
+    /*Plano-Funeral*/
+    .plano-content .webdor-layer {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }
+    .plano-container .planos {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }
+    .plano-box .tabulous-title {
+        font-size: 15px;
+        padding: 0px;     
+    }
+    .plano-box .plano-info:after {
+        margin-left: 9vw;         
+    }
+    .plano-price .plamor-btn {
+        margin-left: 3vw;     
+    }     
+    .plano-content .plano-info .box-head {
+        margin-top: 70%;
+    }    
+    /*End Plano-Funeral*/    
+    /*Novidades*/
+    .novidades-list .checklist-box-title {
+        font-size: 22px;
+    }     
+    .novidades-frame {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }   
+    .novidades-list {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }    
+    .novidades-container #wrapper #tabs ul {
+        width: 85%;
+        float: right;
+        padding-right: 8.5vw;
+    }    
+    .novidades-frame .frame-limit {
+        width: 40%;
+    }        
+    /*End Novidades*/
     /*FAQ*/
     .faq-content .webdor-layer {
         padding-left: 11.8vw;
@@ -3581,6 +3717,57 @@ footer {
     }   
 }
 @media screen and (min-width:1400px) and (max-width: 1599px) {
+    /*Funerária*/
+    .funeraria-content .webdor-layer {
+        padding-left: 9.8vw;
+        padding-right: 7.7vw;
+    }    
+    .funeraria-container {;
+        padding-left: 9.8vw;
+        padding-right: 7.7vw;
+    }    
+    /*End Funerária*/    
+    /*Plano-Funeral*/
+    .plano-content .webdor-layer {
+        padding-left: 9.8vw;
+        padding-right: 7.7vw;
+    }
+    .plano-container .planos {
+        padding-left: 9.8vw;
+        padding-right: 7.7vw;  
+    }
+    .plano-box .tabulous-title {
+        font-size: 16px; 
+        padding: 5px;        
+    }
+    .plano-box .plano-info:after {
+        margin-left: 9vw;         
+    }
+    .plano-price .plamor-btn {
+        margin-left: 4vw;     
+    }     
+    /*End Plano-Funeral*/    
+    /*Novidades*/
+    .novidades-list .checklist-box-title {
+        font-size: 22px;
+    }     
+    .novidades-frame {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }   
+    .novidades-list {
+        padding-left: 11.8vw;
+        padding-right: 9.9vw;
+    }    
+    .novidades-container #wrapper #tabs ul {
+        width: 85%;
+        float: right;
+        padding-right: 8.5vw;
+    }    
+    .novidades-frame .frame-limit {
+        width: 40%;
+    }    
+    /*End Novidades*/    
     /*FAQ*/
     .faq-content .webdor-layer {
         padding-left: 9.8vw;
@@ -3693,6 +3880,57 @@ footer {
 }
 
 @media screen and (min-width:1600px) and (max-width: 1919px) {
+    /*Funerária*/
+    .funeraria-content .webdor-layer {
+        padding-left: 13vw;
+        padding-right: 13vw;
+    }    
+    .funeraria-container {;
+        padding-left: 13vw;
+        padding-right: 13vw;
+    }    
+    /*End Funerária*/
+    /*Plano-Funeral*/
+    .plano-content .webdor-layer {
+        padding-left: 13vw;
+        padding-right: 13vw;
+    }
+    .plano-container .planos {
+        padding-left: 13vw;
+        padding-right: 13vw;   
+    }
+    .plano-box .tabulous-title {
+        font-size: 16px; 
+        padding: 5px;        
+    }
+    .plano-box .plano-info:after {
+        margin-left: 9vw;         
+    }
+    .plano-price .plamor-btn {
+        margin-left: 4vw;     
+    }     
+    /*End Plano-Funeral*/
+    /*Novidades*/
+    .novidades-list .checklist-box-title {
+        font-size: 22px;
+    }     
+    .novidades-frame {
+        padding-left: 13.8vw;
+        padding-right: 12vw; 
+    }   
+    .novidades-list {
+        padding-left: 13.8vw;
+        padding-right: 12vw; 
+    }    
+    .novidades-container #wrapper #tabs ul {
+        width: 85%;
+        float: right;
+        padding-right: 12vw;
+    }    
+    .novidades-frame .frame-limit {
+        width: 40%;
+    }    
+    /*End Novidades*/   
     /*FAQ*/
     .faq-content .webdor-layer {
         padding-left: 13.8vw;
