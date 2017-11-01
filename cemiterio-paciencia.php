@@ -91,10 +91,10 @@
 					<div id="cemiterio-2" class="layer-hidden">
 						<div class="parques-section sections animated slideInLeft">
 							<p class="section-title">Cemitério Parque</p>
-							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
-							<p class="section-content">Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-							<p class="section-content">Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
-							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
+							<p class="section-content">Criado em 1989 , O Cemitério Parque Jardim da Saudade Paciência tem 1200.000 m2 de bosques , colinas flores e muito verde totalmente urbanizado com uma completa infra estrutura de serviços.</p>
+
+							<p class="section-content">Situado a 15 minutos da Barra da Tijuca é o maior cemitério da América Latina.
+							Este é o lugar mais perto do paraíso.</p>
 						</div>
 					</div>
 					<div id="cemiterio-3" class="layer-hidden">
@@ -109,19 +109,13 @@
 					<div id="cemiterio-4" class="layer-hidden">
 						<div class="parques-section sections animated slideInLeft">
 							<p class="section-title">Ossário Público</p>
-							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
-							<p class="section-content">Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-							<p class="section-content">Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
-							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
+							<p class="section-content">O Cemitério Jardim da Saudade de Paciência disponibiliza aos seus clientes um ossário público permitindo que ossos sejam depositados após a exumação.</p>
 						</div>
 					</div>	
 					<div id="cemiterio-5" class="layer-hidden">
 						<div class="parques-section sections animated slideInLeft">
 							<p class="section-title">Crematório</p>
-							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
-							<p class="section-content">Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-							<p class="section-content">Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
-							<p class="section-content">Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
+							<p class="section-content">Em breve</p>
 						</div>
 					</div>	
 					<div id="cemiterio-6" class="layer-hidden">
