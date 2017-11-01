@@ -1892,7 +1892,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     transition: all 1s cubic-bezier(.17,.84,.44,1);
 }
 
-.contato-container .bullet-active:before {
+/*.contato-container .bullet-active:before {
     content: '___';
     font-size: 26px;
     color: #ced787;
@@ -1900,11 +1900,11 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     letter-spacing: -1px;
     position: absolute;
     margin-top: 10px;
-    left: 25.5%;
-    transition: all 1s cubic-bezier(.17,.84,.44,1);   
-}
+    transition: all 1s cubic-bezier(.17,.84,.44,1);
+    margin-left: 15px;
+}*/
 
-.contato-container .bullet-active:after {
+/*.contato-container .bullet-active:after {
     content: '___';
     font-size: 26px;
     color: #ced787;
@@ -1914,7 +1914,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     margin-top: 13px;
     left: 25.5%;
     transition: all 1s cubic-bezier(.17,.84,.44,1);
-}
+}*/
 
 .contato-container .bullet-link:focus {
     outline: 0;
@@ -1942,7 +1942,7 @@ a, a:hover, a:active, a:focus {text-decoration: none;}
     text-align: left;
     padding: 30px;
     background: #ffffff;  
-    float: right;
+    float: left;
     width: 42%;       
 }
 
@@ -3356,6 +3356,9 @@ footer {
     .contato-container .map-box {
         padding-left: 9vw;
         padding-right: 7.9vw;
+    }    
+    .contato-container .map-info {
+        width: 33%;
     }         
     /*end contato*/ 	
     /*Archive Cemiterios*/
@@ -3485,7 +3488,10 @@ footer {
     .contato-container .map-box {
         padding-left: 11.8vw;
         padding-right: 9.9vw;
-    }        
+    }
+    .contato-container .map-info {
+        width: 37%;
+    }            
     /*end contato*/	
     /*Archive Cemiterios*/
 	.archive-box-right, .archive-box-left {
